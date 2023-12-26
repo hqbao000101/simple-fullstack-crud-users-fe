@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.student-table tr {
+  height: 50px;
+}
+
+.student-table thead tr {
+  border-bottom: 2px solid black;
+}
